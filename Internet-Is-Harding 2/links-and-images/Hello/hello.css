@@ -1,0 +1,21 @@
+
+body {
+    color: black;
+    background-color: white;
+    text-align: left;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight:bolder;
+    
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+a{
+    text-decoration: none;
+    
+}
